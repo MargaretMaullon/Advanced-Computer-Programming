@@ -1,0 +1,76 @@
+[
+    {
+        "id": "25-16027",
+        "grades": [
+            {
+                "subject": "ESP",
+                "grade": "97"
+            },
+            {
+                "subject": "ENGLISH",
+                "grade": "98"
+            },
+            {
+                "subject": "AP",
+                "grade": "95"
+            },
+            {
+                "subject": "MATHEMATICS",
+                "grade": "96"
+            },
+            {
+                "subject": "FILIPINO",
+                "grade": "97"
+            },
+            {
+                "subject": "SCIENCE",
+                "grade": "97"
+            },
+            {
+                "subject": "TLE",
+                "grade": "99"
+            },
+            {
+                "subject": "MAPEH",
+                "grade": "98"
+            }
+        ]
+    },
+    {
+        "id": "25-00000",
+        "grades": [
+            {
+                "subject": "ESP",
+                "grade": "95"
+            },
+            {
+                "subject": "ENGLISH",
+                "grade": "96"
+            },
+            {
+                "subject": "AP",
+                "grade": "97"
+            },
+            {
+                "subject": "MATH",
+                "grade": "94"
+            },
+            {
+                "subject": "FILIPINO",
+                "grade": "93"
+            },
+            {
+                "subject": "SCIENCE",
+                "grade": "92"
+            },
+            {
+                "subject": "TLE",
+                "grade": "91"
+            },
+            {
+                "subject": "MAPEH",
+                "grade": "99"
+            }
+        ]
+    }
+]
